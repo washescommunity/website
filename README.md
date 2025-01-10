@@ -1,2 +1,4 @@
 # washescommunity.github.io
-WASHES - Website
+WASHES - Website 
+
+Starting the project!
