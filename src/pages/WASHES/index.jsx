@@ -1,0 +1,11 @@
+export { default as Washes2026 } from "./Washes2026";
+export { default as Washes2025 } from "./Washes2025";
+export { default as Washes2024 } from "./Washes2024";
+export { default as Washes2023 } from "./Washes2023";
+export { default as Washes2022 } from "./Washes2022";
+export { default as Washes2021 } from "./Washes2021";
+export { default as Washes2020 } from "./Washes2020";
+export { default as Washes2019 } from "./Washes2019";
+export { default as Washes2018 } from "./Washes2018";
+export { default as Washes2017 } from "./Washes2017";
+export { default as Washes2016 } from "./Washes2016";
