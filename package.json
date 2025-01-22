@@ -1,7 +1,7 @@
 {
-  "name": "washescommunity",
+  "name": "washescommunity.github.io",
   "private": true,
-  "homepage": "https://washescommunity.github.io/washescommunity/",
+  "homepage": "https://washescommunity.github.io/washescommunity.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -25,7 +25,7 @@
     "react-icons": "^5.2.1",
     "react-router-dom": "^6.26.0",
     "react-scroll": "^1.9.0",
-    "washescommunity": "file:"
+    "washescommunity.github.io": "file:"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
