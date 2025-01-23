@@ -16,7 +16,8 @@ function HeroWashesAnoAtual() {
                     <div className="flex flex-col items-center text-center mx-5 gap-7 lg:gap-8 lg:items-start lg:text-left">
                     <h1 className="text-[28px] lg:text-[32px] font-semibold text-[#0D6080]">WASHES {dadosEdicaoAtual.anoAtualDoEvento} </h1>
                     <p className="text-lg font-light text-[#2F2F2F] lg:text-[26px] leading-9 lg:text-justify">
-                        O WASHES {dadosEdicaoAtual.anoAtualDoEvento}  será realizado no formato presencial nos dias {dadosEdicaoAtual.dataDaRealizacaoDoWASHES}  (datas sujeitas à mudanças). {dadosEdicaoAtual.edicaoDoCongresso}
+                        {/* O WASHES {dadosEdicaoAtual.anoAtualDoEvento}  será realizado no formato presencial nos dias {dadosEdicaoAtual.dataDaRealizacaoDoWASHES}  (datas sujeitas à mudanças). {dadosEdicaoAtual.edicaoDoCongresso} */}
+                        Em breve, traremos mais informações sobre o WASHES 2026!
                         </p>
                         <Link
                             to={`/washes-${dadosEdicaoAtual.anoAtualDoEvento}`}
@@ -24,7 +25,8 @@ function HeroWashesAnoAtual() {
                             text-base text-white hover:text-[#74C76B] hover:outline hover:outline-1 cursor-pointer
                             rounded transition-colors duration-300 lg:px-5 lg:py-3 lg:text-2xl"
                         >
-                            Saiba mais sobre o WASHES {dadosEdicaoAtual.anoAtualDoEvento}!
+                            {/* Saiba mais sobre o WASHES {dadosEdicaoAtual.anoAtualDoEvento}! */}
+                            Aguarde!
                         </Link>
                     </div>
                 </div>

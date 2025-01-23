@@ -21,7 +21,7 @@ function Footer() {
                         <FaGithub size={24} />
                     </a>
                 </div>
-                <p>© 2026 WASHES. Todos os direitos reservados.</p>
+                <p>© 2025 WASHES. Todos os direitos reservados.</p>
             </footer>
         </>
     )
