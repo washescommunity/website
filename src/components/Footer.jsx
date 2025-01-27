@@ -8,16 +8,16 @@ function Footer() {
             <footer className="bg-[#1C1D21] text-white bottom-0 w-full flex flex-col items-center py-6 ">
                 <img src="./assets/imgs/logo_washes.svg" alt="Logo" className="h-12 mb-4" />
                 <div className="flex space-x-6 mb-4">
-                    <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="text-white">
+                    <a href="https://x.com/washescommunity" target="_blank" rel="noopener noreferrer" className="text-white">
                         <FaXTwitter size={24} />
                     </a>
-                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-white">
+                    <a href="https://www.instagram.com/washescommunity/" target="_blank" rel="noopener noreferrer" className="text-white">
                         <FaInstagram size={24} />
                     </a>
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white">
+                    <a href="https://www.linkedin.com/company/washescommunity" target="_blank" rel="noopener noreferrer" className="text-white">
                         <FaLinkedin size={24} />
                     </a>
-                    <a href="https://github.com/gesid/novo-washes-website" target="_blank" rel="noopener noreferrer" className="text-white">
+                    <a href="https://github.com/washescommunity/website" target="_blank" rel="noopener noreferrer" className="text-white">
                         <FaGithub size={24} />
                     </a>
                 </div>
