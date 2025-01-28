@@ -1,4 +1,4 @@
-# Novo Washes Website
+# WASHES - Website
 
 Este é o repositório para o projeto do Website do WASHES. Este projeto utiliza React, Vite, Tailwind CSS, e várias outras tecnologias para criar uma aplicação web moderna e responsiva.
 
