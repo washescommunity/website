@@ -18,7 +18,7 @@ export const CardEdicoesAnteriores = ({imagem, local, edicao, anoDaEdicao,linkWe
           <nav className="flex justify-center gap-4">
             <div className="flex items-center gap-1">
               <TfiWorld />
-              <a  className="lg:text-xl md:text-lg sm:text-base underline" href={linkWebsite} target="_blank">Website</a>  
+              <a  className="lg:text-xl md:text-lg sm:text-base underline" href={linkWebsite}>Website</a>  
             </div>
             <div className="flex items-center gap-1">
               <LuBook />
