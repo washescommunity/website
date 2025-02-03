@@ -1,4 +1,5 @@
 import CustomizedTimeline from "../components/CustomizedTimeline";
+import TopicosDeInteresseQuemSomos from "../components/TopicosDeInteresseQuemSomos"
 
 const QuemSomos = () => {
   return (
@@ -35,8 +36,8 @@ const QuemSomos = () => {
         <div className="w-full h-1 bg-[#66C75C]"></div>
       </div>
 
-      <div className="container mx-auto my-10 flex flex-col gap-7 justify-center items-center lg:flex-row lg:gap-20">
-        <div className="flex flex-col items-center text-left mx-5 gap-7 lg:gap-8 lg:items-start lg:text-left">
+      <div className="container mx-auto my-10 flex flex-col gap-7 justify-center lg:flex-row lg:gap-20">
+        <div className="flex flex-col text-left mx-5 gap-7 lg:gap-8 lg:items-start ">
           <h1 className="text-[28px] lg:text-[32px] font-semibold text-[#0D6080]">
             Sobre
           </h1>
@@ -68,6 +69,14 @@ const QuemSomos = () => {
             informática médica, computação aplicada à educação e ações sociais,
             entre outros.
           </p>
+        </div>
+      </div>
+      <div className="container mx-auto my-10 flex flex-col gap-7 lg:gap-8 px-5">
+        <h1 className="text-[28px] lg:text-[32px] font-semibold text-[#0D6080]">
+          Tópicos de Interesse
+        </h1>
+        <div className="text-left gap-7 lg:gap-8 lg:items-start lg:text-left">
+          <TopicosDeInteresseQuemSomos/>
         </div>
       </div>
 

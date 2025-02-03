@@ -34,7 +34,7 @@ export function BannerWASHES({anoAtual, creditosDaImagem}){
 
         <div className="flex w-full h-full lg md:gap-4 gap-2 lg md:px-11 px-5">
           <div className="bg-gradient-to-b from-[#22CBE4] from-50% lg md:w-10 w-5 h-full z-20"></div>
-          <div className="bg-gradient-to-b from-[#E72B78] from-50% lg md:w-10 w-5 h-full lg md:z-10 z-20"></div>
+          <div className="bg-gradient-to-b from-[#E72B78] from-50% lg md:w-10 w-5 h-full z-20"></div>
           <div className="bg-gradient-to-b from-[#74C76B] from-50% lg md:w-10 w-5 h-full z-20"></div>
         </div>
 
