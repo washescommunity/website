@@ -6,7 +6,7 @@ function Hero() {
         <>
             <section className="w-full h-96 flex gap-2 flex-row items-center justify-center lg:h-dvh lg:bg-banner-hero lg:bg-no-repeat lg:bg-cover lg:bg-center
             sm:bg-banner-hero sm:bg-no-repeat sm:bg-cover sm:bg-center relative overflow-hidden">
-                <img className="w-[512px] sm:hidden absolute top-[-10%] left-[25%] opacity-15" src="/assets/imgs/logo_washes.svg" alt="" />
+                <img className="w-[512px] sm:hidden absolute top-[-10%] left-[25%] opacity-15" src="/assets/logo_washes.svg" alt="" />
                 <div className="flex flex-col items-center justify-center mx-5 gap-16 lg:gap-32">
                     <div className="max-w-screen-xl w-full flex flex-col items-center justify-between mx-5 text-center">
                         <h2 className="text-2xl mb-3 text-gray-600 font-semibold lg:hidden">
@@ -17,7 +17,7 @@ function Hero() {
                         </h1>
                         <h2 className="hidden lg:flex text-2xl mt-3 text-gray-500 font-semibold lg:text-6xl lg:mt-12">
                             <div className="flex items-center gap-4">
-                                <img src="public/assets/imgs/logo_washes.svg" alt="Washes mini-logo" className="h-16 w-auto" />
+                                 <img src="/website/assets/logo_washes.svg" alt="Washes mini-logo" className="h-16 w-auto" />
                                 <p className="text-[rgb(13_96_128)]">WASHES</p>
                             </div>
                         </h2>
