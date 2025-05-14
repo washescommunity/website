@@ -53,17 +53,18 @@ const Washes2025 = () => {
               sessao={dados.sessao}
               programacao={dados.programacao}
             />
-            ))) : (
-                <h1 className="lg:text-3xl text-2xl"> Em breve </h1>
-            )}
+          ))
+        ) : (
+          <h1 className="lg:text-3xl text-2xl"> Em breve </h1>
+        )}
       </div>
 
-      <TopicoDeInteresse 
-        anoAtual={anoAtual}
-      />
+      <TopicoDeInteresse anoAtual={anoAtual} />
 
       <div className="container px-5 my-16 mx-auto py-2 flex flex-col gap-5 text-[#2f2f2f]">
-        <h1 className="font-bold text-[28px] lg:text-[32px]">Chamada de Trabalhos</h1>
+        <h1 className="font-bold text-[28px] lg:text-[32px]">
+          Chamada de Trabalhos
+        </h1>
         {chamadaDeTrabalhosDoAno.map((dados, index) => (
           <ChamadaDeTrabalhos
             key={index}
@@ -72,10 +73,29 @@ const Washes2025 = () => {
           />
         ))}
       </div>
+      {/* Coordenação por Ano */}
+      <h2 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
+        Comitê Diretivo - Coordenação {anoAtual}
+      </h2>
+      <div className="flex flex-wrap justify-center gap-20 mb-10">
+        {coordenadoresDoAno.map((coordinator, index) => (
+          <Card
+            key={index}
+            imgSrc={coordinator.imgSrc}
+            name={coordinator.name}
+            university={coordinator.university}
+            memberType={coordinator.memberType}
+            linkedinUrl={coordinator.linkedinUrl}
+            lattesUrl={coordinator.lattesUrl}
+          />
+        ))}
+      </div>
 
       <div className="container mx-auto py-10">
         {/* Membros Permanentes */}
-        <h1 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">Comitê Diretivo - Membros Permanentes</h1>
+        <h1 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
+          Comitê Diretivo - Membros Permanentes
+        </h1>
         <div className="flex flex-wrap justify-around gap-4 mb-10">
           {comiteDiretivo.map((member, index) => (
             <Card
@@ -90,31 +110,15 @@ const Washes2025 = () => {
           ))}
         </div>
 
-        {/* Coordenação por Ano */}
-        <h2 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
-        Comitê Diretivo - Coordenação {anoAtual}
-        </h2>
-        <div className="flex flex-wrap justify-center gap-20 mb-10">
-          {coordenadoresDoAno.map((coordinator, index) => (
-            <Card
-              key={index}
-              imgSrc={coordinator.imgSrc}
-              name={coordinator.name}
-              university={coordinator.university}
-              memberType={coordinator.memberType}
-              linkedinUrl={coordinator.linkedinUrl}
-              lattesUrl={coordinator.lattesUrl}
-            />
-          ))}
-        </div>
-
         {/* Dropdown Comitê de Programa */}
         <div className="mt-8 text-center">
           <div
             className="flex justify-center items-center cursor-pointer"
             onClick={toggleDropdown}
           >
-            <h2 className="text-[28px] lg:text-[32px] font-bold mx-2">Comitê de Programa</h2>
+            <h2 className="text-[28px] lg:text-[32px] font-bold mx-2">
+              Comitê de Programa
+            </h2>
             <div
               className={`transition-transform duration-500 ${
                 isDropdownOpen ? "rotate-180" : ""
@@ -134,18 +138,20 @@ const Washes2025 = () => {
             >
               {/* Layout que quebra em duas colunas */}
               <div className="flex flex-col md:flex-row justify-between px-4 py-4 space-y-8 md:space-y-0 md:space-x-8">
-                {Object.entries(comiteProgramaDoAno).map(([region, members], index) => (
-                  <div key={index} className="w-full md:w-1/2">
-                    <h3 className="font-bold mb-4 text-lg">{region}</h3>
-                    <ul className="space-y-2">
-                      {members.map((member, idx) => (
-                        <li key={idx}>
-                          {member.name} - {member.university}
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                ))}
+                {Object.entries(comiteProgramaDoAno).map(
+                  ([region, members], index) => (
+                    <div key={index} className="w-full md:w-1/2">
+                      <h3 className="font-bold mb-4 text-lg">{region}</h3>
+                      <ul className="space-y-2">
+                        {members.map((member, idx) => (
+                          <li key={idx}>
+                            {member.name} - {member.university}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )
+                )}
               </div>
             </div>
           </div>

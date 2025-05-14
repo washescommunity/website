@@ -16,7 +16,10 @@ function Hero() {
                             Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software
                         </h1>
                         <h2 className="hidden lg:flex text-2xl mt-3 text-gray-500 font-semibold lg:text-6xl lg:mt-12">
-                            WASHES
+                            <div className="flex items-center gap-4">
+                                <img src="public/assets/imgs/logo_washes.svg" alt="Washes mini-logo" className="h-16 w-auto" />
+                                <p className="text-[rgb(13_96_128)]">WASHES</p>
+                            </div>
                         </h2>
                     </div>
 
