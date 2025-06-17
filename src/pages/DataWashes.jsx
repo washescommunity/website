@@ -1,8 +1,13 @@
+import { useEffect } from 'react';
 
 const DataWashes = () => {
+  useEffect(() => {
+    window.location.href = "https://datawashes.pythonanywhere.com";
+  }, []);
+
   return (
     <div>
-      <h1>DataWashes</h1>
+      <h1>Redirecionando para DataWashes...</h1>
     </div>
   );
 };
