@@ -402,7 +402,7 @@ export const dadosComitePrograma = {
     "Centro-Oeste": [
       {name:"Debora Maria Barroso Paiva", university: "Universidade Federal de Mato Grosso do Sul"},
       {name:"Edna Dias Canedo", university:"Universidade de Brasília"},
-      {name:"Hudson Silva Borges", university:"Universidade Federal de Mato Grosso do Sul"}
+      {name:"Hudson Silva Borges", university:"Universidade Federal de Mato Grosso do Sul"},
       {name:"Sergio Carvalho", university: "Universidade Federal de Goiás"},
       {name:"Sofia Costa Paiva", university: "Universidade Federal de Goiás"},
       {name:"Valdemar Vicente Graciano Neto", university: "Universidade Federal de Goiás"},
