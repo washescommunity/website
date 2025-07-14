@@ -1169,7 +1169,7 @@ export const dadosProgramacao = {
       data: "23/07/2025",
       horarioDeInicio: "11:15",
       apresentador: "Chair: Sofia Paiva (UFG)",
-      sessao: "Sessão Técnica 2 - Open Science, Experiência do Desenvolvedor e Soft Skills",
+      sessao: "Sessão Técnica 3 - Open Science, Experiência do Desenvolvedor e Soft Skills",
       programacao: [
         {
           horarioApresentacao: "11:15 - 11:30",
@@ -1221,7 +1221,7 @@ export const dadosProgramacao = {
         },
       ],
       data: "23/07/2025",
-      horarioDeInicio: "18:15 - 18:30",
+      horarioDeInicio: "18:15",
       apresentador: "Chairs: Allysson Araújo (UFCA) e Luciana Zaina (UFSCar)",
       sessao: "Encerramento: Discussão com a Comunidade e Premiação dos Artigos",
       programacao: [
