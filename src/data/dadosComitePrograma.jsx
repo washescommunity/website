@@ -375,19 +375,76 @@ export const dadosComitePrograma = {
   
   2025 : {
     "Norte": [ 
-      {name:"Em breve"}
+      {name:"Bruno Gadelha", university: "Universidade Federal do Amazonas"},
+      {name:"Catarina Costa", university: "Universidade Federal do Acre"},
+      {name:"Marcos César da Rocha Seruffo", university: "Universidade Federal do Pará"},
+      {name:"Paulo Malcher ", university: "Universidade Federal Rural da Amazônia"},
+      {name:"Rodrigo Quites Reis", university: "Universidade Federal do Pará"},
+      {name:"Anderson Uchôa", university: ""}
     ],
     "Nordeste": [
-      {name:"Em breve"}
+      {name:"Anderson Uchôa", university: "Universidade Federal do Ceará"},
+      {name:"Carla Bezerra", university: "Universidade Federal do Ceará"},
+      {name:"Danilo Monteiro Ribeiro", university: "CESAR School"},
+      {name:"Emanuel Coutinho", university: "Universidade Federal do Ceará"},
+      {name:"Evilasio Costa Junior ", university: "Universidade Federal do Ceará"},
+      {name:"Fernando Kenji Kamei", university:"Instituto Federal de Alagoas"},
+      {name:"Ivaldir Honório de Farias Júnior", university:"Universidade de Pernambuco"},
+      {name:"Jacilane Rabelo", university:"Universidade Federal do Ceará"},
+      {name:"Juliana de Albuquerque Gonçalves Saraiva", university:"Universidade Federal da Paraíba"},
+      {name:"Marilia Soares Mendes", university:"Universidade Federal do Ceará"},
+      {name:"Matheus Paixão", university:"Universidade Estadual do Ceará"},
+      {name:"Pedro Almir Martins Oliveira", university:"Instituto Federal do Maranhão"},
+      {name:"Ricardo Vilela", university:"Universidade Federal do Cariri"},
+      {name:"Sávio Freire", university:"Instituto Federal de Educação, Ciência e Tecnologia do Ceará"},
+      {name:"Windson Carvalho", university:"Universidade Federal do Ceará"}
     ],
     "Centro-Oeste": [
-      {name:"Em breve"}
+      {name:"Debora Maria Barroso Paiva", university: "Universidade Federal de Mato Grosso do Sul"},
+      {name:"Edna Dias Canedo", university:"Universidade de Brasília"},
+      {name:"Hudson Silva Borges", university:"Universidade Federal de Mato Grosso do Sul"}
+      {name:"Sergio Carvalho", university: "Universidade Federal de Goiás"},
+      {name:"Sofia Costa Paiva", university: "Universidade Federal de Goiás"},
+      {name:"Valdemar Vicente Graciano Neto", university: "Universidade Federal de Goiás"},
     ],
     "Sudeste": [
-      {name:"Em breve"}
+      {name:"Carlos Eduardo de Barros Paes", university:"Pontifícia Universidade Católica de São Paulo"},
+      {name:"Francisco Henrique Cerdeira Ferreira", university: "Universidade Federal de Juiz de Fora"},
+      {name:"Heitor Augustus Xavier Costa", university: "Universidade Federal de Lavras"},
+      {name:"Johnny Cardoso Marques ", university: "Instituto Tecnológico de Aeronáutica"},
+      {name:"José Maria David", university: "Universidade Federal de Juiz de Fora"},
+      {name:"Kamila Rodrigues", university: "Universidade de São Paulo"},
+      {name:"Maria Lucia Bento Villela", university: "Universidade Federal de Viçosa"},
+      {name:"Pedro Henrique Dias Valle", university: "Universidade de São Paulo"},
+      {name:"Rafael Maiani de Mello", university:"Universidade Federal do Rio de Janeiro"},
+      {name:"Sandra Souza Rodrigues", university:"Universidade Federal de Lavras"}
     ],
     "Sul": [
-      {name:"Em breve"}
+      {name:"Afonso Sales", university: "Pontifícia Universidade Católica do Rio Grande do Sul"},
+      {name:"Alexandre Lazaretti Zanatta", university: "Universidade de Passo Fundo"},
+      {name:"Érica F. Souza", university:"Universidade Tecnológica Federal do Paraná"},
+      {name:"Everton Gomede", university:"Universidade Estadual de Londrina"},
+      {name:"Leticia Machado", university:"Universidade Federal do Rio Grande do Sul"},
+      {name:"Natasha Malveira Costa Valentim ", university:"Universidade Federal do Paraná"},
+      {name:"Renato Balancieri", university:"Universidade Estadual de Maringá"},
+      {name:"Sabrina dos Santos Marczak", university:"Pontifícia Universidade Católica do Rio Grande do Sul"},
+      {name:"Thelma Elita Colanzi", university:"Universidade Estadual de Maringá"},
+      {name:"Walter Nakamura", university:"Universidade Tecnológica Federal do Paraná"}
+    ],
+    "Internacional":[
+      {name:"Bianca Trinkenreich", university:"Colorado State University"},
+      {name:"Ronnie de Souza Santos", university:"University of Calgary"}
+    ],
+    "Revisores Externos":[
+      {name:"André Gheventer", university:"Universidade Federal do Rio de Janeiro"},
+      {name:"Aline Verhalen", university:"Universidade de São Paulo"},
+      {name:"Bruno Carvalho da Silva", university:"Universidade Federal do Maranhão"},
+      {name:"Cynthya Letícia Teles de Oliveira", university:"Universidade de São Paulo"},
+      {name:"Danilo T. Lima", university:"Universidade Federal do Pará"},
+      {name:"Flávio Morgado", university:"Pontifícia Universidade Católica de São Paulo"},
+      {name:"Flávio Rafael Trindade Moura", university:"Universidade Federal do Pará"},
+      {name:"Igor W. S. Falcão", university:"Universidade Federal do Pará"},
+      {name:"Lidvaldo José Santos", university:"Universidade Federal do Rio Janeiro"}
     ]
   },
   2026 : {

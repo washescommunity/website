@@ -1112,19 +1112,117 @@ export const dadosProgramacao = {
         },
       ],
 
-      data: "Em Breve",
-      horarioDeInicio: "",
-      apresentador: "Em Breve",
-      sessao: "",
+      data: "22/07/2025",
+      horarioDeInicio: "17:30",
+      apresentador: "Palestrante: Edna Dias Canedo (UnB). Chair: Davi Viana (UFMA)",
+      sessao: "Palestra - Preocupações Éticas em Inteligência Artificial",
       programacao: [
         {
-          horarioApresentacao: "Em Breve",
-          temaApresentacao: "Em Breve",
+          horarioApresentacao: "17:30 - 18:30",
+          temaApresentacao: "A crescente adoção da Inteligência Artificial (IA) em diversas áreas trouxe inúmeros avanços, mas também levantou importantes preocupações éticas. Modelos de linguagem de grande escala (LLMs), como ChatGPT, têm demonstrado viés algorítmico, riscos à privacidade, desinformação e impacto no mercado de trabalho, exigindo uma abordagem mais responsável para seu desenvolvimento e uso. Nesta palestra, discutiremos os princípios éticos fundamentais para o design e implementação de IA, incluindo transparência, justiça e equidade, responsabilidade, privacidade e confiança. Além disso, exploraremos os desafios éticos específicos dos LLMs, como viés nos dados de treinamento, alucinações, uso indevido e impactos sociais. Também abordaremos como estratégias como supervisão humana (Human-in-the-Loop), auditorias algorítmicas e regulamentações emergentes podem mitigar esses riscos. A palestra busca promover um debate crítico sobre como equilibrar inovação e responsabilidade, garantindo que a IA seja justa, confiável e benéfica para toda a sociedade.",
         },
-        // {
-        //   horarioApresentacao: "",
-        //   temaApresentacao: "",
-        // },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "9:00",
+      apresentador: "Chair: Davi Viana (UFMA)",
+      sessao: "Sessão Técnica 2 - Privacidade e Qualidade de Software",
+      programacao: [
+        {
+          horarioApresentacao: "9:00 - 9:15",
+          temaApresentacao: "Conformidade com os Requisitos Legais de Privacidade de Dados: Um Estudo sobre Técnicas de Anonimização (André Luís Andrade Menolli, Luiz Fernando Nunes, Thiago Adriano Coleti)",
+        },
+        {
+          horarioApresentacao: "9:15 - 9:30",
+          temaApresentacao: "Como a comunidade brasileira de pesquisa em requisitos aborda o direito à privacidade de dados pessoais? (Filipe Jesus Portilho, Valdemar Vicente Graciano Neto, Cinara Gomes de Melo Carneiro, Renato de Freitas Bulcão Neto)",
+        },
+        {
+          horarioApresentacao: "9:30 - 9:45",
+          temaApresentacao: "Como a experiência dos testadores influencia no processo de realização de testes em Sistemas Web (Pedro Antonio Moreira de Freitas, Sofia Costa Paiva)",
+        },
+        {
+          horarioApresentacao: "9:45 - 10:00",
+          temaApresentacao: "Investigando a Percepção de Desenvolvedores de Software sobre a Adoção de LLMs na Refatoração de Code Smells (Javel Freitas, Guilherme Pereira, Lara Lima, Caio Rian Reinaldo de Sousa, Edivar Filho, José Cezar de Souza Filho, Carla Bezerra)",
+        },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "10:00",
+      apresentador: "Chairs: Luciana Zaina (UFSCar) e Rodrigo Santos (UNIRIO)",
+      sessao: "II Fórum dos Grandes Desafios de Pesquisa em Aspectos Sociais, Humanos e Econômicos de Software (GranDASHES-BR)",
+      programacao: [
+        {
+          horarioApresentacao: "10:00 - 10:15",
+          temaApresentacao: "Ethical issues are not exclusive to AI systems (Otávio Gomes, Gláucia Braga e Silva, Érica F. Souza)",
+        },
+        {
+          horarioApresentacao: "10:15 - 11:00",
+          temaApresentacao: "Oficina para encaminhamentos dos capítulos aprovados no GranDASHES-BR",
+        },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "11:15",
+      apresentador: "Chair: Sofia Paiva (UFG)",
+      sessao: "Sessão Técnica 2 - Open Science, Experiência do Desenvolvedor e Soft Skills",
+      programacao: [
+        {
+          horarioApresentacao: "11:15 - 11:30",
+          temaApresentacao: "Evaluating the Development Experience in Open Science Tools: A Case Study of the dataWASHES API (Jose Antonio de Souza Neto, Davi Viana, Rodrigo Pereira dos Santos, Allysson Allex Araújo)",
+        },
+        {
+          horarioApresentacao: "11:30 - 11:45",
+          temaApresentacao: "Bridging Open Science and Data Visualization: Evaluating the Usability of dataWASHES Dashboard (José Victor Lima Gonçalves, Davi Viana, Rodrigo Pereira dos Santos, Allysson Allex Araújo)",
+        },
+        {
+          horarioApresentacao: "11:45 - 12:00",
+          temaApresentacao: "Alinhando Soft Skills na Engenharia de Requisitos entre Academia e Indústria: Um estudo piloto (Rômulo Valle, Alinne Souza, Pedro Henrique Dias Valle)",
+        },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "16:00",
+      apresentador: "Chair: Carla Bezerra (UFC)",
+      sessao: "Sessão Técnica 4 - Diversidade, Chatbots e DevOps",
+      programacao: [
+        {
+          horarioApresentacao: "16:00 - 16:15",
+          temaApresentacao: "Diversidade e Design Thinking em pauta: como equipes mais diversas podem colaborar no desenvolvimento de soluções de software (Sofia Desidério, Simires Costa, Deusiane Kaylane Moreira, Carol Lima Fonseca, Anna Beatriz Marques, Valéria M. Pinheiro)",
+        },
+        {
+          horarioApresentacao: "16:15 - 16:30",
+          temaApresentacao: "Desenvolvimento de um Chatbot Inteligente para auxílio de atividades organizacionais durante o período de Processos Seletivos da Instituição Anônima (Aridan Pantoja, Karol Nascimento, Geovane de Lima Duarte, Beatriz Abreu, Yago de Jesus Martins)",
+        },
+        {
+          horarioApresentacao: "16:30 - 16:45",
+          temaApresentacao: "DevOps na Prática: Explorando a Compreensão e os Desafios da Adoção em Projetos Acadêmicos (Rayan Victor, Renato Vasconcelos Maciel Filho, Maria Elanne Rodrigues, Fernanda Ferreira do Nascimento, Valéria M. Pinheiro)",
+        },
+        {
+          horarioApresentacao: "16:45 - 17:00",
+          temaApresentacao: "10 years of Workshop on Social, Human, and Economics Aspects of Software (WASHES): Results of a Scoping Review (Otávio Gomes, Estela Miranda Batista, Gláucia Braga e Silva, Allysson Allex Araújo)",
+        },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "17:00",
+      apresentador: "Painelistas: Cristiano Maciel (UFMT) e Rodrigo Santos (UNIRIO). Chair: Gláucia Braga e Silva (UFV)",
+      sessao: "Painel Comemorativo das 10 Edições do WASHES",
+      programacao: [
+        {
+          horarioApresentacao: "17:00 - 18:15",
+          temaApresentacao: "Painel Comemorativo das 10 Edições do WASHES.",
+        },
+      ],
+
+      data: "23/07/2025",
+      horarioDeInicio: "18:15 - 18:30",
+      apresentador: "Chairs: Allysson Araújo (UFCA) e Luciana Zaina (UFSCar)",
+      sessao: "Encerramento: Discussão com a Comunidade e Premiação dos Artigos",
+      programacao: [
+        {
+          horarioApresentacao: "18:15 - 18:30",
+          temaApresentacao: "Encerramento: Discussão com a Comunidade e Premiação dos Artigos",
+        },
       ],
     },
   ],
