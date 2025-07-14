@@ -1078,6 +1078,40 @@ export const dadosProgramacao = {
   ],
   2025: [
     {
+      data: "22/07/2025",
+      horarioDeInicio: "16:00",
+      apresentador: "Chairs: Allysson Araújo (UFCA) e Luciana Zaina (UFSCar)",
+      sessao: "Abertura - Introdução ao WASHES",
+      programacao: [
+        {
+          horarioApresentacao: "16:00 - 16:30",
+          temaApresentacao: "Abertura do WASHES.",
+        },
+      ],
+
+      data: "22/07/2025",
+      horarioDeInicio: "16:30",
+      apresentador: "Chair: Catarina Costa (UFAC)",
+      sessao: "Sessão Técnica 1 - Trabalho Remoto, Liderança e Desenvolvimento de Equipes",
+      programacao: [
+        {
+          horarioApresentacao: "16:30 - 16:45",
+          temaApresentacao: "Trabalho Remoto no Pós-Pandemia: Benefícios e Desafios no Setor de TI do Estado do Pará (Eliezer Coelho, Cesar Lobato, Carlos Portela, Rodrigo Lisbôa Pereira)",
+        },
+        {
+          horarioApresentacao: "16:45 - 17:00",
+          temaApresentacao: "Liderança Servidora e Segurança Psicológica como Antecedentes do Desempenho em Equipes Ágeis (Gabriel Albuquerque de Oliveira, Suzana Sampaio)",
+        },
+        {
+          horarioApresentacao: "17:00 - 17:15",
+          temaApresentacao: "Um catálogo de auxílio ao suporte organizacional percebido para o turnover em desenvolvimento distribuído de software (Karla Thais Chaves, Ivaldir H. F. Junior, Wylliams Barbosa Santos)",
+        },
+        {
+          horarioApresentacao: "17:15 - 17:30",
+          temaApresentacao: "Apadrinhamento - Juntos na Missão: Uma Abordagem baseada na Mentoria e Aprendizado em um Projeto de Extensão, Pesquisa, Ensino e Desenvolvimento (Rai Rodrigues, Israely Lima, Sufia Rios, Pedro de Carvalho Chaaban, Anny Oliveira, Emídio Barbosa, Jacilane Rabelo)",
+        },
+      ],
+
       data: "Em Breve",
       horarioDeInicio: "",
       apresentador: "Em Breve",
