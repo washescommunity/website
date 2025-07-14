@@ -1088,7 +1088,8 @@ export const dadosProgramacao = {
           temaApresentacao: "Abertura do WASHES.",
         },
       ],
-
+    },
+    {
       data: "22/07/2025",
       horarioDeInicio: "16:30",
       apresentador: "Chair: Catarina Costa (UFAC)",
@@ -1111,7 +1112,8 @@ export const dadosProgramacao = {
           temaApresentacao: "Apadrinhamento - Juntos na Missão: Uma Abordagem baseada na Mentoria e Aprendizado em um Projeto de Extensão, Pesquisa, Ensino e Desenvolvimento (Rai Rodrigues, Israely Lima, Sufia Rios, Pedro de Carvalho Chaaban, Anny Oliveira, Emídio Barbosa, Jacilane Rabelo)",
         },
       ],
-
+    },
+    {
       data: "22/07/2025",
       horarioDeInicio: "17:30",
       apresentador: "Palestrante: Edna Dias Canedo (UnB). Chair: Davi Viana (UFMA)",
@@ -1122,7 +1124,8 @@ export const dadosProgramacao = {
           temaApresentacao: "A crescente adoção da Inteligência Artificial (IA) em diversas áreas trouxe inúmeros avanços, mas também levantou importantes preocupações éticas. Modelos de linguagem de grande escala (LLMs), como ChatGPT, têm demonstrado viés algorítmico, riscos à privacidade, desinformação e impacto no mercado de trabalho, exigindo uma abordagem mais responsável para seu desenvolvimento e uso. Nesta palestra, discutiremos os princípios éticos fundamentais para o design e implementação de IA, incluindo transparência, justiça e equidade, responsabilidade, privacidade e confiança. Além disso, exploraremos os desafios éticos específicos dos LLMs, como viés nos dados de treinamento, alucinações, uso indevido e impactos sociais. Também abordaremos como estratégias como supervisão humana (Human-in-the-Loop), auditorias algorítmicas e regulamentações emergentes podem mitigar esses riscos. A palestra busca promover um debate crítico sobre como equilibrar inovação e responsabilidade, garantindo que a IA seja justa, confiável e benéfica para toda a sociedade.",
         },
       ],
-
+    },
+    {
       data: "23/07/2025",
       horarioDeInicio: "9:00",
       apresentador: "Chair: Davi Viana (UFMA)",
@@ -1145,7 +1148,8 @@ export const dadosProgramacao = {
           temaApresentacao: "Investigando a Percepção de Desenvolvedores de Software sobre a Adoção de LLMs na Refatoração de Code Smells (Javel Freitas, Guilherme Pereira, Lara Lima, Caio Rian Reinaldo de Sousa, Edivar Filho, José Cezar de Souza Filho, Carla Bezerra)",
         },
       ],
-
+    },
+    {
       data: "23/07/2025",
       horarioDeInicio: "10:00",
       apresentador: "Chairs: Luciana Zaina (UFSCar) e Rodrigo Santos (UNIRIO)",
@@ -1160,7 +1164,8 @@ export const dadosProgramacao = {
           temaApresentacao: "Oficina para encaminhamentos dos capítulos aprovados no GranDASHES-BR",
         },
       ],
-
+    },
+    {
       data: "23/07/2025",
       horarioDeInicio: "11:15",
       apresentador: "Chair: Sofia Paiva (UFG)",
@@ -1179,7 +1184,8 @@ export const dadosProgramacao = {
           temaApresentacao: "Alinhando Soft Skills na Engenharia de Requisitos entre Academia e Indústria: Um estudo piloto (Rômulo Valle, Alinne Souza, Pedro Henrique Dias Valle)",
         },
       ],
-
+    },
+    {
       data: "23/07/2025",
       horarioDeInicio: "16:00",
       apresentador: "Chair: Carla Bezerra (UFC)",
@@ -1202,7 +1208,8 @@ export const dadosProgramacao = {
           temaApresentacao: "10 years of Workshop on Social, Human, and Economics Aspects of Software (WASHES): Results of a Scoping Review (Otávio Gomes, Estela Miranda Batista, Gláucia Braga e Silva, Allysson Allex Araújo)",
         },
       ],
-
+    },
+    {
       data: "23/07/2025",
       horarioDeInicio: "17:00",
       apresentador: "Painelistas: Cristiano Maciel (UFMT) e Rodrigo Santos (UNIRIO). Chair: Gláucia Braga e Silva (UFV)",
@@ -1213,7 +1220,6 @@ export const dadosProgramacao = {
           temaApresentacao: "Painel Comemorativo das 10 Edições do WASHES.",
         },
       ],
-
       data: "23/07/2025",
       horarioDeInicio: "18:15 - 18:30",
       apresentador: "Chairs: Allysson Araújo (UFCA) e Luciana Zaina (UFSCar)",
