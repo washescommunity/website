@@ -75,7 +75,7 @@ const Washes2025 = () => {
       </div>
       {/* Coordenação por Ano */}
       <h2 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
-        Comitê Diretivo - Coordenação {anoAtual}
+        Comissão Organizadora - Coordenação {anoAtual}
       </h2>
       <div className="flex flex-wrap justify-center gap-20 mb-10">
         {coordenadoresDoAno.map((coordinator, index) => (
