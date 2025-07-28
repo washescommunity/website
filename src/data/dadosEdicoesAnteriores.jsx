@@ -88,7 +88,7 @@ export const dadosEdicoesAnteriores = [
     local : "Maceió - Al",
     anoDaEdicao: "(2025)",
     linkWebsite: "#/washes-2025",
-    linkAnalEvento: ""
+    linkAnalEvento: "https://sol.sbc.org.br/index.php/washes/issue/view/1530"
   },
   // Adicione edições futuras abaixo
   // { 
