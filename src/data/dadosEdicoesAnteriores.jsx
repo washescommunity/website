@@ -74,7 +74,7 @@ export const dadosEdicoesAnteriores = [
   },
   { // Nona Edição WASHES
     imagem: "./assets/edicoesAnterioresImages/washes-ix-brasilia.jpg",    
-    creditosDaImagem:"Foto de Lucas Menesesno Pexels",
+    creditosDaImagem:"Foto de Lucas Meneses no Pexels",
     edicao: "IX WASHES",
     local : "Brasília - DF",
     anoDaEdicao: "(2024)",
@@ -83,7 +83,7 @@ export const dadosEdicoesAnteriores = [
   },
   { // Decima Edição WASHES
     imagem: "./assets/edicoesAnterioresImages/washes-x-maceio.jpg",
-    creditosDaImagem:"Foto de Filipe Coelho Pexels",
+    creditosDaImagem:"Foto de Filipe Coelho no Pexels",
     edicao: "X WASHES",
     local : "Maceió - Al",
     anoDaEdicao: "(2025)",
