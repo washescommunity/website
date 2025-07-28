@@ -1116,7 +1116,7 @@ export const dadosProgramacao = {
     {
       data: "22/07/2025",
       horarioDeInicio: "17:30",
-      apresentador: "Palestrante: Edna Dias Canedo (UnB). Chair: Davi Viana (UFMA)",
+      apresentador: "Palestrante: Edna Dias Canedo (UnB). Chair: Awdren Fontão (UFMS)",
       sessao: "Palestra - Preocupações Éticas em Inteligência Artificial",
       programacao: [
         {
