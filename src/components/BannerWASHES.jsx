@@ -11,6 +11,7 @@ export function BannerWASHES({anoAtual, creditosDaImagem}){
       -"bg-bottom": Alinha o fundo na parte inferior da área do elemento, garantindo consistência visual.
       -Tambem pode ser: "bg-top", "bg-center". O ajuste depende da imagem inserida.
     */
+    2026: 'md:bg-banner-hero-WASHES2026 bg-bottom',
     2025: 'md:bg-banner-hero-WASHES2025 bg-bottom',
     2024: 'md:bg-banner-hero-WASHES2024 bg-bottom',
     2023: 'md:bg-banner-hero-WASHES2023 bg-top',
