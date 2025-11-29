@@ -8,7 +8,6 @@ function Home() {
         <div className="">
             <Hero />
             <HeroQuemSomos />
-            <HeroWashes2025 />
             <FeedInsta />
         </div>
     );
