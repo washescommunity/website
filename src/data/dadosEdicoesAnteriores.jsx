@@ -90,6 +90,15 @@ export const dadosEdicoesAnteriores = [
     linkWebsite: "#/washes-2025",
     linkAnalEvento: "https://sol.sbc.org.br/index.php/washes/issue/view/1530"
   },
+  { // Decima Primeira Edição WASHES
+    imagem: "./assets/edicoesAnterioresImages/washes-xi-gramado.jpg",
+    creditosDaImagem:"Foto de Mini Mundo",
+    edicao: "XI WASHES",
+    local : "Gramado - RS",
+    anoDaEdicao: "(2026)",
+    linkWebsite: "#/washes-2026",
+    linkAnalEvento: ""
+  },
   // Adicione edições futuras abaixo
   // { 
   //   imagem: "",
