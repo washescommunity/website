@@ -39,7 +39,7 @@ export function BannerWASHES({anoAtual, creditosDaImagem}){
         </div>
 
         <div className='w-full text-right pr-2 text-gray-500 text-sm md:block hidden'>
-          {"url(/assets/banners/banner-hero-WASHES2026.jpg)"}
+          {/* Adicione a referência da imagem aqui */"banner-hero-WASHES2026"}
           <span>{creditosDaImagem}</span>
         </div>
 
