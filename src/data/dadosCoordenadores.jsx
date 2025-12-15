@@ -228,7 +228,7 @@ export const dadosCoordenadores = {
       lattesUrl: "http://lattes.cnpq.br/0016446811901913"
     }
   ],
-  2025: [
+  2026: [
     {
       imgSrc: "./assets/imgs/Luciana Zaina.jpg",
       name: "Luciana Zaina",
