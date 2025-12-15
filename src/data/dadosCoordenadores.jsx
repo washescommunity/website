@@ -212,7 +212,7 @@ export const dadosCoordenadores = {
       lattesUrl: "http://lattes.cnpq.br/5522150204610320",
     },
     {
-      imgSrc: "./assets/imgs/glaucia-braga-silva.jpg",
+      imgSrc: "./assets/imgs/glaucia-braga-silva.png",
       name: "Glaucia Braga e Silva",
       university: "Universidade Federal de Viçosa",
       memberType: "Coordenadora",
@@ -227,5 +227,31 @@ export const dadosCoordenadores = {
       linkedinUrl: "https://www.linkedin.com/in/estelamirandabatista/",
       lattesUrl: "http://lattes.cnpq.br/0016446811901913"
     }
+  ],
+  2025: [
+    {
+      imgSrc: "./assets/imgs/Luciana Zaina.jpg",
+      name: "Luciana Zaina",
+      university: "Universidade Federal de São Carlos",
+      memberType: "Coordenadora",
+      linkedinUrl: "https://www.linkedin.com/in/luciana-zaina-53a1a616/",
+      lattesUrl: "http://lattes.cnpq.br/0192085115595443",
+    },
+    {
+      imgSrc: "./assets/imgs/glaucia-braga-silva.png",
+      name: "Glaucia Braga e Silva",
+      university: "Universidade Federal de Viçosa",
+      memberType: "Coordenadora",
+      linkedinUrl: "https://www.linkedin.com/in/gláucia-braga-e-silva-a0b0a7ba",
+      lattesUrl: "http://lattes.cnpq.br/2427091227765800"
+    },
+    {
+      imgSrc: "./assets/imgs/Allyson Allex.jpg",
+      name: "Allysson Allex Araújo",
+      university: "Universidade Federal do Cariri",
+      memberType: "Coordenador",
+      linkedinUrl: "https://www.linkedin.com/in/allyssonaraujo/",
+      lattesUrl: "http://lattes.cnpq.br/1768955171390815",
+    },
   ],
 };

@@ -216,6 +216,26 @@ export const dadosTopicoDeInteresse = {
   "Aspectos sociais, humanos e econômicos de software no contexto de governança digital para uma sociedade sustentável"
 ],
 2026:[
-  "Mais informações em breve."
+  "Novas abordagens, métodos, práticas e modelos considerando os aspectos humanos, sociais e/ou econômicos aplicados ao desenvolvimento de software e sistemas ciber-físicos;",
+  "Relatos sobre o empoderamento digital em equipes de software no formato de trabalho híbridas ou remoto;",
+  "Impacto da inteligência artificial (trustworthy AI, ética, Large Language Models etc.) nos aspectos humanos, sociais e/ou econômicos do desenvolvimento de software e sistemas;",
+  "Bots, chatbots, agentes conversacionais em ambiente de desenvolvimento de software;",
+  "Redes sociais e mídias sociais no contexto de desenvolvimento de software;",
+  "Princípios de desenvolvimento e projeto de software, práticas de engenharia de ferramentas que influenciam ou são influenciados por aspectos sociais, humanos e/ou econômicos;",
+  "Aspectos humanos, sociais e econômicos e sua influência na interação humano-computador, incluindo questões sobre acessibilidade, usabilidade, experiência do usuário etc.;",
+  "Diversidade, equidade e inclusão no desenvolvimento de software;",
+  "Aspectos sociais, humanos, e econômicos e sua influência na qualidade de software;",
+  "Aspectos gerenciais e organizacionais do desenvolvimento de software;",
+  "Ferramentas e processos de apoio a situações organizacionais e culturais;",
+  "Projeto, desenvolvimento e avaliação de ferramentas ou bases de dados (datasets) que apoiam o estudo de emoções e criação de valor em engenharia de software;",
+  "Características psicológicas, sociológicas, humanas e econômicas do desenvolvimento de software;",
+  "Abordagens que explorem perspectivas sociais, humanas, e econômicas em torno do software envolvendo mineração de repositórios de software ou aprendizagem de máquina (inclusive aprendizagem profunda);",
+  "Modelos de desenvolvimento de software baseados em comunidade, como open source, crowdsourcing e parcerias público-privadas;",
+  "Modelos de negócios, plataformas e ecossistemas de software;",
+  "Questões relativas a licenças, propriedade intelectual e patentes;",
+  "Educação sobre os aspectos sociais, humanos e econômicos e sua influência na educação em computação;",
+  "Estudos secundários, estudos de caso, surveys, estudos experimentais ou relatos de experiência da indústria;",
+  "Aspectos sociais, humanos e econômicos em sistemas intensivos de software, sistemas de sistemas, blockchain, internet das coisas, sistemas ciber-físicos etc.;",
+  "Aspectos sociais, humanos e econômicos de software na Transformação Digital para um Mundo em Emergência Climática."
 ],
 };
