@@ -297,7 +297,13 @@ export const dadosChamadaDeTrabalho = {
   },
   {
     titulo: "Datas Importantes",
-    conteudo: `Mais informações em breve.`,
+    conteudo: `
+    <li><strong>Submissão:</strong> 02/03/2026 </li>
+    <li><strong>Notificação de Aceite:</strong>  04/05/2026 </li>
+    <li><strong>Envio da Versão Final:</strong> 18/05/2026 </li>
+    <li><strong>Prazo de Inscrição das Pessoas Autoras:</strong> 18/05/2026 </li>
+    <li><strong>Realização do CSBC 2025:</strong> 19/07/2026 e 23/07/2026</li>
+`,
   },
   {
     titulo: "Publicação dos Trabalhos",
