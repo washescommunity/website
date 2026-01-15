@@ -295,11 +295,11 @@ export const dadosChamadaDeTrabalho = {
     titulo: "Instrução para Submissão",
     conteudo: `
     Todas as submissões devem seguir o estilo de formatação dos eventos da Sociedade Brasileira de Computação (SBC) e serem enviadas por meio da plataforma JEMS3: <a href="https://jems3.sbc.org.br/washes2026" target="_blank"> <u> https://jems3.sbc.org.br/washes2026 </u> </a>.
-    <br>
+    </br>
     As submissões devem ser realizadas de acordo com o sistema duplo-anônimo (double-anonymous), omitindo-se qualquer identificação de seus autores, bem como de seus revisores. Artigos que não atenderem ao sistema de duplo-anônimo serão rejeitados.
-    <br>
+    </br>
     Artigos aprovados pelo comitê de programa serão publicados nos anais do evento.
-    <br>
+    </br>
     <b>Categoria de Artigos:</b>
     <li>Artigos completos (até 10 páginas, com limite de <u>duas</u> páginas adicionais para referências), apresentando resultados de interesse para o avanço da pesquisa na área. Artigos que descrevem modelos, métodos, estudos experimentais e relatos de experiência industrial são bem-vindos.</li>
     <li>Artigos Curtos (até 5 páginas, com limite de <u>uma</u> página adicional para referências), descrevendo trabalhos em andamento, ou uma visão de um projeto de pesquisa, ferramenta ou técnica, ou trabalhos explorando perspectivas de pesquisa nos temas do workshop. Este tipo de artigo será avaliado seguindo os mesmos critérios da categoria “artigos completos”, tendo como peso o potencial de discussão que o artigo pode gerar no workshop.</li>
@@ -317,7 +317,13 @@ export const dadosChamadaDeTrabalho = {
   },
   {
     titulo: "Publicação dos Trabalhos",
-    conteudo: `Mais informações em breve.`
+    conteudo: `
+    Os artigos aceitos serão indexados com DOI e publicados nos anais do evento, que serão disponibilizados online na SBC OpenLib, o portal de conteúdo da SBC, na série Anais do Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software - WASHES, a ser disponibilizada no link: <a href="https://sol.sbc.org.br/index.php/washes" target="_blank"> https://sol.sbc.org.br/index.php/washes</a>.
+    </br>
+    A publicação do artigo é condicionada à inscrição de pelo menos um dos autores e a apresentação presencial do artigo no CSBC 2026.
+    </br>
+    Os melhores artigos serão convidados para submissão estendida a uma edição especial do WASHES, em periódico nacional (em negociação).
+    `
   }
 ],
 };
