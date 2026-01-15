@@ -248,7 +248,15 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
 `},{titulo:"Publicação dos Trabalhos",conteudo:`
       Os artigos aceitos serão indexados com DOI e publicados nos anais do evento, que serão disponibilizados online na SBC OpenLib, o portal de conteúdo da SBC, na série Anais do Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES, a ser disponibilizada no link:<u> <a href="https://sol.sbc.org.br/index.php/washes" target="_blank"> https://sol.sbc.org.br/index.php/washes </a> </u>. </br> </br>
       Os melhores artigos serão convidados para submissão em uma edição especial do WASHES para a iSys – Brazilian Journal of Information Systems (Qualis B2):<u> <a href="https://sol.sbc.org.br/journals/index.php/isys" target="_blank"> https://sol.sbc.org.br/journals/index.php/isys </a> </u> . </br>
-      `}],2026:[{titulo:"Instrução para Submissão",conteudo:"Mais informações em breve."},{titulo:"Datas Importantes",conteudo:`
+      `}],2026:[{titulo:"Instrução para Submissão",conteudo:`
+    Todas as submissões devem seguir o estilo de formatação dos eventos da Sociedade Brasileira de Computação (SBC) e serem enviadas por meio da plataforma JEMS3: <a href="https://jems3.sbc.org.br/washes2026" target="_blank"> <u> https://jems3.sbc.org.br/washes2026 </u> </a>.
+    As submissões devem ser realizadas de acordo com o sistema duplo-anônimo (double-anonymous), omitindo-se qualquer identificação de seus autores, bem como de seus revisores. Artigos que não atenderem ao sistema de duplo-anônimo serão rejeitados.
+    Artigos aprovados pelo comitê de programa serão publicados nos anais do evento.
+
+    <b>Categoria de Artigos</b>
+    <li>Artigos completos (até 10 páginas, com limite de duas páginas adicionais para referências), apresentando resultados de interesse para o avanço da pesquisa na área. Artigos que descrevem modelos, métodos, estudos experimentais e relatos de experiência industrial são bem-vindos.</li>
+    <li>Artigos Curtos (até 5 páginas, com limite de uma página adicional para referências), descrevendo trabalhos em andamento, ou uma visão de um projeto de pesquisa, ferramenta ou técnica, ou trabalhos explorando perspectivas de pesquisa nos temas do workshop. Este tipo de artigo será avaliado seguindo os mesmos critérios da categoria “artigos completos”, tendo como peso o potencial de discussão que o artigo pode gerar no workshop.</li>
+    `},{titulo:"Datas Importantes",conteudo:`
     <li><strong>Submissão:</strong> 02/03/2026 </li>
     <li><strong>Notificação de Aceite:</strong>  04/05/2026 </li>
     <li><strong>Envio da Versão Final:</strong> 18/05/2026 </li>
