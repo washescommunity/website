@@ -259,7 +259,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     <li>Artigos completos (até 10 páginas, com limite de <u>duas</u> páginas adicionais para referências), apresentando resultados de interesse para o avanço da pesquisa na área. Artigos que descrevem modelos, métodos, estudos experimentais e relatos de experiência industrial são bem-vindos.</li>
     <li>Artigos Curtos (até 5 páginas, com limite de <u>uma</u> página adicional para referências), descrevendo trabalhos em andamento, ou uma visão de um projeto de pesquisa, ferramenta ou técnica, ou trabalhos explorando perspectivas de pesquisa nos temas do workshop. Este tipo de artigo será avaliado seguindo os mesmos critérios da categoria “artigos completos”, tendo como peso o potencial de discussão que o artigo pode gerar no workshop.</li>
     `},{titulo:"Datas Importantes",conteudo:`
-    <li><strong>Submissão:</strong> 02/03/2026 </li>
+    <li><strong>Submissão:</strong> <s>02/03/2026<s> 16/03/2026 </li>
     <li><strong>Notificação de Aceite:</strong>  04/05/2026 </li>
     <li><strong>Envio da Versão Final:</strong> 18/05/2026 </li>
     <li><strong>Prazo de Inscrição das Pessoas Autoras:</strong> 18/05/2026 </li>
