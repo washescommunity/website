@@ -322,7 +322,7 @@ export const dadosChamadaDeTrabalho = {
     </br></br>
     A publicação do artigo é condicionada à inscrição de pelo menos um dos autores e a apresentação presencial do artigo no CSBC 2026.
     </br></br>
-    Os melhores artigos serão convidados para submissão estendida a uma edição especial do WASHES, em periódico nacional (em negociação).
+    Os autores dos melhores artigos serão convidados  a enviar extensões de seus trabalhos para a revista iSys (Revista Brasileira de Sistemas de Informação) (<u> <a href="https://sol.sbc.org.br/journals/index.php/isys" target="_blank"> https://sol.sbc.org.br/journals/index.php/isys </a> </u>).
     `
   }
 ],
