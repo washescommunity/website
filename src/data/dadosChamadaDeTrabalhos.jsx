@@ -308,7 +308,7 @@ export const dadosChamadaDeTrabalho = {
   {
     titulo: "Datas Importantes",
     conteudo: `
-    <li><strong>Submissão:</strong> 02/03/2026 </li>
+    <li><strong>Submissão:</strong> <s>02/03/2026<s> 16/03/2026 </li>
     <li><strong>Notificação de Aceite:</strong>  04/05/2026 </li>
     <li><strong>Envio da Versão Final:</strong> 18/05/2026 </li>
     <li><strong>Prazo de Inscrição das Pessoas Autoras:</strong> 18/05/2026 </li>
