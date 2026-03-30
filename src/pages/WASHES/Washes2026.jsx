@@ -91,7 +91,7 @@ const Washes2026 = () => {
       <div className="container mx-auto py-10">
         {/* Membros Permanentes */}
         <h1 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
-          Comitê Diretivo - Membros Permanentes
+          Comissão Organizadora - Coordenação 2026
         </h1>
         <div className="flex flex-wrap justify-around gap-4 mb-10">
           {comiteDiretivo.map((member, index) => (

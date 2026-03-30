@@ -253,5 +253,13 @@ export const dadosCoordenadores = {
       linkedinUrl: "https://www.linkedin.com/in/allyssonaraujo/",
       lattesUrl: "http://lattes.cnpq.br/1768955171390815",
     },
+    {
+      imgSrc: "./assets/imgs/Estela Miranda.jpg",
+      name: "Estela Miranda",
+      university: "Universidade Federal de Viçosa",
+      memberType: "Social Media Chair",
+      linkedinUrl: "https://www.linkedin.com/in/estelamirandabatista/",
+      lattesUrl: "http://lattes.cnpq.br/0016446811901913"
+    }
   ],
 };
