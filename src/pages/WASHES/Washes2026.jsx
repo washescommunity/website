@@ -72,7 +72,7 @@ const Washes2026 = () => {
       </div>
       {/* Coordenação por Ano */}
       <h2 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
-        Comitê Diretivo - Coordenação {anoAtual}
+        Comissão Organizadora - Coordenação {anoAtual}
       </h2>
       <div className="flex flex-wrap justify-center gap-20 mb-10">
         {coordenadoresDoAno.map((coordinator, index) => (
@@ -91,7 +91,7 @@ const Washes2026 = () => {
       <div className="container mx-auto py-10">
         {/* Membros Permanentes */}
         <h1 className="text-center text-[28px] lg:text-[32px] font-bold mb-8">
-          Comissão Organizadora - Coordenação 2026
+          Comitê Diretivo - Membros Permanentes
         </h1>
         <div className="flex flex-wrap justify-around gap-4 mb-10">
           {comiteDiretivo.map((member, index) => (
