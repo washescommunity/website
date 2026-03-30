@@ -220,7 +220,7 @@ export const dadosCoordenadores = {
       lattesUrl: "http://lattes.cnpq.br/2427091227765800"
     },
     {
-      imgSrc: "./assets/imgs/Estela Miranda.jpg",
+      imgSrc: "./assets/imgs/Estela Miranda.png",
       name: "Estela Miranda",
       university: "Universidade Federal de Viçosa",
       memberType: "Social Media Chair",
@@ -254,7 +254,7 @@ export const dadosCoordenadores = {
       lattesUrl: "http://lattes.cnpq.br/1768955171390815",
     },
     {
-      imgSrc: "./assets/imgs/Estela Miranda.jpg",
+      imgSrc: "./assets/imgs/Estela Miranda.png",
       name: "Estela Miranda",
       university: "Universidade Federal de Viçosa",
       memberType: "Social Media Chair",
