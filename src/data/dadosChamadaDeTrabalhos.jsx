@@ -318,9 +318,11 @@ export const dadosChamadaDeTrabalho = {
   {
     titulo: "Publicação dos Trabalhos",
     conteudo: `
-    Os artigos aceitos serão indexados com DOI e publicados nos anais do evento, que serão disponibilizados online na SBC OpenLib, o portal de conteúdo da SBC, na série Anais do Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software - WASHES, a ser disponibilizada no link: <a href="https://sol.sbc.org.br/index.php/washes" target="_blank"> https://sol.sbc.org.br/index.php/washes</a>.
+    Os artigos aceitos serão indexados com DOI e publicados nos anais do evento, que serão disponibilizados online na SBC OpenLib, o portal de conteúdo da SBC, na série Anais do Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software – WASHES, a ser disponibilizada no link: <a href="https://csbc.sbc.org.br/2026/orientacoes-aos-autores-versao-final-artigos-aceitos-eventos/" target="_blank">https://csbc.sbc.org.br/2026/orientacoes-aos-autores-versao-final-artigos-aceitos-eventos/</a>.
     </br></br>
     A publicação do artigo é condicionada à inscrição de pelo menos um dos autores e a apresentação presencial do artigo no CSBC 2026.
+    </br></br>
+    As instruções sobre a elaboração da versão final foram sumarizadas pela equipe do CSBC 2026 e devem ser lidas pelos autores (<a href="https://sol.sbc.org.br/index.php/washes" target="_blank"> https://sol.sbc.org.br/index.php/washes</a>)
     </br></br>
     Os autores dos melhores artigos serão convidados  a enviar extensões de seus trabalhos para a revista iSys (Revista Brasileira de Sistemas de Informação) (<u> <a href="https://sol.sbc.org.br/journals/index.php/isys" target="_blank"> https://sol.sbc.org.br/journals/index.php/isys </a> </u>).
     `
