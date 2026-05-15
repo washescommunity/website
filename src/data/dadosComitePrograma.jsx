@@ -449,6 +449,93 @@ export const dadosComitePrograma = {
   },
   2026 : {
     "Norte": [ 
+      {name:"Bruno Gadelha", university:"Universidade Federal do Amazonas"},
+      {name:"Catarina Costa", university:"Universidade Federal do Acre"},
+      {name:"Marcos César da Rocha Seruffo", university:"Universidade Federal do Pará"},
+      {name:"Paulo Malcher", university:"Universidade Federal Rural da Amazônia"}
+    ],
+    "Nordeste": [
+      {name:"Alexandre Marcos Lins de Vasconcelos", university:"Universidade Federal de Pernambuco"},
+      {name:"Allysson Allex Araújo", university:"Universidade Federal do Cariri"},
+      {name:"Anderson Uchôa", university:"Universidade Federal do Ceará"},
+      {name:"Anna Beatriz Marques", university:"Universidade Federal do Ceará"},
+      {name:"Carla Bezerra", university:"Universidade Federal do Ceará"},
+      {name:"César França", university:"Universidade Federal Rural de Pernambuco"},
+      {name:"Danilo Monteiro Ribeiro", university:"CESAR School"},
+      {name:"Davi Viana", university:"Universidade Federal do Maranhão"},
+      {name:"Emanuel Coutinho", university:"Universidade Federal do Ceará"},
+      {name:"Evilasio Costa Junior", university:"Universidade Federal do Ceará"},
+      {name:"Fernando Kenji Kamei", university:"Instituto Federal de Alagoas"},
+      {name:"Ivaldir H. F. Junior", university:"Universidade de Pernambuco"},
+      {name:"Jacilane Rabelo", university:"Universidade Federal do Ceará"},
+      {name:"Juliana de Albuquerque Gonçalves Saraiva", university:"Universidade Federal da Paraíba"},
+      {name:"Marilia Soares Mendes", university:"Universidade Federal do Ceará"},
+      {name:"Patrícia Freitas Campos de Vasconcelos", university:"Universidade Federal do Ceará"},
+      {name:"Pedro Almir Martins Oliveira", university:"Instituto Federal do Maranhão"},
+      {name:"Sávio Freire", university:"Instituto Federal do Ceará"},
+      {name:"Suzana Sampaio", university:"Universidade Federal Rural de Pernambuco"}
+    ],
+    "Centro-Oeste": [
+      {name:"Awdren de Lima Fontão", university:"Universidade Federal de Mato Grosso do Sul"},
+      {name:"Debora Maria Barroso Paiva", university:"Universidade Federal de Mato Grosso do Sul"},
+      {name:"Hudson Silva Borges", university:"Universidade Federal do Mato Grosso do Sul"},
+      {name:"Sergio Carvalho", university:"Universidade Federal de Goiás"},
+      {name:"Sofia Costa Paiva", university:"Universidade Federal de Goiás"},
+      {name:"Valdemar Vicente Graciano Neto", university:"Universidade Federal de Goiás"},
+      {name:"Wellynton Diniz", university:"Faculdade de Tecnologia de Sinop"}
+    ],
+    "Sudeste": [
+      {name:"Adriana Lopes Damian", university:"Instituto de Pesquisas Eldorado"},
+      {name:"Alexandre Alvaro", university:"Universidade Federal de São Carlos"},
+      {name:"Carlos Eduardo de Barros Paes", university:"Pontifícia Universidade Católica de São Paulo"},
+      {name:"Daniel Mendes Barbosa", university:"Universidade Federal de Viçosa"},
+      {name:"Francisco Henrique Cerdeira Ferreira", university:"Universidade Federal de Juiz de Fora"},
+      {name:"Heitor Augustus Xavier Costa", university:"Universidade Federal de Lavras"},
+      {name:"Iris Fabiana de Barcelos Tronto", university:"Universidade Federal de Viçosa"},
+      {name:"Joelma Choma", university:"Universidade Federal de São Carlos"},
+      {name:"Johnny Cardoso Marques", university:"Instituto Tecnológico de Aeronáutica"},
+      {name:"José Maria David", university:"Universidade Federal de Juiz de Fora"},
+      {name:"Kamila Rodrigues", university:"Universidade de São Paulo"},
+      {name:"Larissa Ferreira Rodrigues Moreira", university:"Universidade Federal de Viçosa"},
+      {name:"Maria Lucia Bento Villela", university:"Universidade Federal de Viçosa"},
+      {name:"Pedro Henrique Dias Valle", university:"Universidade de São Paulo"},
+      {name:"Philipe Melo", university:"Universidade Federal de Viçosa"},
+      {name:"Rafael Maiani de Mello", university:"Universidade Federal do Rio de Janeiro"},
+      {name:"Rodrigo Oliveira Zacarias", university:"Universidade Federal Fluminense"},
+      {name:"Sandra Souza Rodrigues", university:"Universidade Federal de Lavras"},
+      {name:"Suéllen Martinelli", university:"Universidade Federal de São Carlos"}
+    ],
+    "Sul": [
+      {name:"Afonso Sales", university:"Pontifícia Universidade Católica do Rio Grande do Sul"},
+      {name:"Alexandre Lazaretti Zanatta", university:"Universidade de Passo Fundo"},
+      {name:"Andre Menolli", university:"Universidade Estadual de Londrina"},
+      {name:"Érica F. Souza", university:"Universidade Tecnológica Federal do Paraná"},
+      {name:"Everton Gomede", university:"Universidade Estadual de Londrina"},
+      {name:"Leticia Machado", university:"Universidade Federal do Rio Grande do Sul"},
+      {name:"Renato Balancieri", university:"Universidade Estadual de Maringá"},
+      {name:"Thelma Elita Colanzi", university:"Universidade Estadual de Maringá"},
+      {name:"Thiago Adriano Coleti", university:"Universidade Estadual do Norte do Paraná"},
+      {name:"Walter Nakamura", university:"Universidade Tecnológica Federal do Paraná"}
+    ],
+    "Internacional":[
+      {name:"Igor Steinmacher", university:"Northern Arizona University"},
+      {name:"Luciana Rebelo", university:"Gran Sasso Science Institute"}
+    ],
+    "Revisores Externos":[
+      {name:"Caroline Barroso", university:"Universidade Federal dos Vales do Jequitinhonha e Mucuri"},
+      {name:"Cauã Ferreira Barros", university:"Universidade Federal de Goiás"},
+      {name:"Danilo T. Lima", university:"Universidade Federal do Pará"},
+      {name:"Edison Morais", university:"Universidade Federal de Goiás"},
+      {name:"Gessé Pereira", university:"Universidade Federal de São Carlos"},
+      {name:"Guilherme Vaz Pereira", university:"Pontifícia Universidade Católica do Rio Grande do Sul"},
+      {name:"Henrique Buzeto Galati", university:"Instituto Federal de Educação Ciência e Tecnologia de São Paulo"},
+      {name:"Juliana Costa Fernandes", university:"Instituto Federal do Piauí"},
+      {name:"Renato Manzan", university:"Pontifícia Universidade Católica de São Paulo"},
+      {name:"Suzane Santos dos Santos", university:"Universidade de São Paulo"}
+    ]
+  },
+  2027 : {
+    "Norte": [ 
       {name:"Em breve"}
     ],
     "Nordeste": [
@@ -461,6 +548,9 @@ export const dadosComitePrograma = {
       {name:"Em breve"}
     ],
     "Sul": [
+      {name:"Em breve"}
+    ],
+    "Revisores Externos":[
       {name:"Em breve"}
     ]
   },
