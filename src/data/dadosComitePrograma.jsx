@@ -457,7 +457,6 @@ export const dadosComitePrograma = {
     "Nordeste": [
       {name:"Alexandre Marcos Lins de Vasconcelos", university:"Universidade Federal de Pernambuco"},
       {name:"Allysson Allex Araújo", university:"Universidade Federal do Cariri"},
-      {name:"Anderson Uchôa", university:"Universidade Federal do Ceará"},
       {name:"Anna Beatriz Marques", university:"Universidade Federal do Ceará"},
       {name:"Carla Bezerra", university:"Universidade Federal do Ceará"},
       {name:"César França", university:"Universidade Federal Rural de Pernambuco"},
