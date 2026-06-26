@@ -1276,168 +1276,173 @@ export const dadosProgramacao = {
 
     {
       data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
+      horarioDeInicio: "08:50",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 2 - Comunicação, Colaboração e Requisitos",
       programacao: [
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "08:50 - 09:05",
+          temaApresentacao: "Communication Skills in Software Engineering: A Multivocal Review (Dannilo Rabelo (UFPA), Deisy do Socorro Peres Lobato (UFPE), Emmanuel Dias Pereira, Thayssa Rocha (UFPA), Enne Rebeca Silva de Freitas (Federal University of Para), Kiev Gama (UFPE), Gustavo Pinto (Federal University of Para))",
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "09:05 - 09:20",
+          temaApresentacao: "Bad Smells of Communication in Multidisciplinary Agile Teams of a Remote Software Project (Cesar Lobato (UFPA), Carlos Portela (UFPA), Maurício Souza (UFLA), Paula Toledo Palomino (FATECMATAO), Rodrigo Lisbôa Pereira (UFRA), Thiago Cordeiro (UFAL))",
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "09:20 - 09:30",
+          temaApresentacao: "Investigating Requirements Management Practices in a Proprietary Educational Software Ecosystem (Paulo Malcher (UFRA), Rodrigo Feitosa (PESC/COPPE/UFRJ), Juliana Costa Fernandes (IFPI), Emanuel Coutinho (UFC), Luis Jorge Enrique Rivero Cabrejos (UFMA), Davi Viana (UFMA), Rodrigo Pereira dos Santos (UNIRIO))",
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "09:30 - 09:40",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
         },
       ],
     },
 
     {
       data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
+      horarioDeInicio: "09:40",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança",
       programacao: [
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "09:40 - 09:55",
+          temaApresentacao: "Investigando o impacto do fake agile na perspectiva das equipes de desenvolvimento de software (Luis Siqueira (UFC), Francisco Jerferson Martins da Silva (UFC), Gabriel Al-Samir Guimarães Sales (UFC), Carla Bezerra (UFC))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "09:55 - 10:10",
+          temaApresentacao: "Diagnóstico da Maturidade em Gestão do Conhecimento: Um Estudo em uma Empresa Desenvolvedora de Software de Pequeno Porte (Vanessa Lima (UFC), Jeferson Vieira (UFC), Marcelo Martins da Silva (UFC))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "10:10 - 10:20",
+          temaApresentacao: "Modelo de análise de efetividade de ações de conscientização cibernética com base em inteligência de ameaças (Júlio Valente da Costa Júnior (Universidade de Brasília, UnB), Augusto Damião Oliveira da Silva, Luiz Gustavo Marques Florindo (UnB), Daniel Chaves Café (Universidade de Brasília, UnB))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "10:20 - 10:30",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
+        },
+      ],
+    },
+
+    {
+      data: "20/07/2026",
+      horarioDeInicio: "09:45",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 3 - Inclusão e Relações Profissionais",
+      programacao: [
+        {
+          horarioApresentacao: "09:45 - 10:00",
+          temaApresentacao: "Como a experiência profissional dos testadores afeta o relacionamento com os desenvolvedores (Maria Rafaela Mendes dos Anjos (INF/UFG), Sofia Costa Paiva (UFG))"	,
+        },
+
+        {
+          horarioApresentacao: "10:00 - 10:15",
+          temaApresentacao: "Um estudo exploratório sobre a Síndrome do Burnout no ambiente de desenvolvimento de software (Carlos Aldrim Freitas Melo Filho, Simone de Oliveira Santos (UFC), Italo Ribeiro (UECE))"	,
+        },
+
+        {
+          horarioApresentacao: "10:15 - 10:30",
+          temaApresentacao: "Ágil para Quem? Práticas, Desafios e Modelos de Onboarding para Engenheiros de Software com Autismo (Stela Marisco Duarte (UFMS), Daniel Vitoriano (UFMS), Maria Istela Cagnin (Universidade Federal de Mato Grosso do Sul))"	,
+        },
+
+        {
+          horarioApresentacao: "10:30 - 10:40",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
+        },
+      ],
+    },
+
+    {
+      data: "20/07/2026",
+      horarioDeInicio: "10:35",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 6 - Requisitos e IA ",
+      programacao: [
+        {
+          horarioApresentacao: "10:35 - 10:50",
+          temaApresentacao: "The Use of Generative AI Tools by Requirements Engineers: An Interview with Industry Professionals (Josué Viana (UFPA), Carlos Portela (UFPA), Sandro Ronaldo Bezerra Oliveira (UFPA))"	,
+        },
+
+        {
+          horarioApresentacao: "10:50 - 11:05",
+          temaApresentacao: "Aplicação da Engenharia de Requisitos à Modernização de Sistemas Legados no Setor Público: Um Relatório de Experiência (Thomas Lopes (UFLA), Thaís Giovanna Lopes (UFLA), Vanessa Souza (UFLA), Leonardo Filipe Silva (UFLA), Paulo Afonso Parreira Júnior (UFLA))"	,
+        },
+
+        {
+          horarioApresentacao: "11:05 - 11:20",
+          temaApresentacao: "From Awareness to Action: How Developers Engage with Accessibility Innovation in LLM-Assisted Development (Thayssa Rocha (UFPA), Luciane Silva (UFU), Ana Duarte, Marcelle Pereira Mota (UFPA), Gustavo Pinto (UFPA))"	,
+        },
+
+        {
+          horarioApresentacao: "11:20 - 11:30",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
+        },
+      ],
+    },
+
+    {
+      data: "20/07/2026",
+      horarioDeInicio: "10:40",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 5 - Experiência de Uso e Tecnologias Interativas",
+      programacao: [
+        {
+          horarioApresentacao: "10:40 - 10:55",
+          temaApresentacao: "Applying Usability Testing to Conversational Systems in an Internet of Things Context: An Industry Experience Report (Camilla Rosas Gomes (SIDI), Marcos William Cardoso dos Santos (UFAM), Felipe S. Manzoni (UFAM), Leonardo Marques (SiDi), Oswald Mesumbe Ekwoge (UFAM))"	,
+        },
+
+        {
+          horarioApresentacao: "10:55 - 11:10",
+          temaApresentacao: "A study of users and contexts of use of Smart Voice Assistants (Patrícia Freitas Campos de Vasconcelos (UFC), Marília Mendes (UFC), Elizabeth Sucupira Furtado (Unifor))"	,
+        },
+
+        {
+          horarioApresentacao: "11:10 - 11:20",
+          temaApresentacao: "Adoption of Blockchain for Decentralized Execution Agreements: Empirical Evidence of Usability and Acceptance (Iago Fernandes, Pamella Soares (UECE), Raphael Lima Saraiva (UECE), Ana Klyssia Martins Vasconcelos (UECE Universidade Estadual do Ceará), Matheus Paixão (UECE), Allysson Allex Araújo (Universidade Federal do Cariri), Jerffeson Souza (UECE))"	,
+        },
+
+        {
+          horarioApresentacao: "11:20 - 11:30",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
         },
       ],
     },
   
     {
       data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
+      horarioDeInicio: "16:00",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 7 - Experiência, Práticas e Conformidade",
       programacao: [
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "16:00 - 16:15",
+          temaApresentacao: "ROI in UX Design: Preliminary Evidence from Interviews with Industry Professionals (Gessé Pereira (UFSCar), Luciana Zaina (UFSCar))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "16:15 - 16:30",
+          temaApresentacao: "Design Process Considerations on the Accessibility of Task Management Tools (Giselle Lorrane Nobre Melo (UFPA), Luciano Arruda Teran (UFPA), Suzane Santos dos Santos (University of São Paulo), Kamila Rodrigues (USP), Marcelle Pereira Mota (UFPA))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "16:30 - 16:45",
+          temaApresentacao: "Rapid Review sobre Reuniões de Retrospectiva em Times Ágeis Remotos (Wesley Mota de Oliveira Gomes (UFRJ), Juliana Baptista dos Santos França (UFRJ), Rafael Maiani de Mello (UFRJ))"	,
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-      ],
-    },
-
-    {
-      data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
-      programacao: [
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "16:45 - 16:55",
+          temaApresentacao: "Evaluating the Compliance of Software Requirements to LGPD with LLM through Simulations (Lucas Moura (UFC), Marcos Vinícius de Sousa Lima (UFC), Allan Peixoto (UFC), Emanuel Coutinho (UFC))",
         },
 
         {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-      ],
-    },
-
-    {
-      data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
-      programacao: [
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-      ],
-    },
-  
-    {
-      data: "20/07/2026",
-      horarioDeInicio: "",
-      apresentador: "Em breve",
-      sessao: "",
-      programacao: [
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
-        },
-
-        {
-          horarioApresentacao: "Em breve",
-          temaApresentacao: "Em breve",
+          horarioApresentacao: "16:55 - 17:05",
+          temaApresentacao: "Rodada de Perguntas e Discussão",
         },
       ],
     },
@@ -1453,7 +1458,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "18:10",
       apresentador: "Chairs: Luciana Zaina & Gláucia Braga e Silva",
