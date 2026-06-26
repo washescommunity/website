@@ -1244,7 +1244,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Abertura WASHES 2026",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "08:50",
       apresentador: "Chair: A definir",
@@ -1270,7 +1272,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Rodada de Perguntas e Discussão	",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1296,7 +1300,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1322,7 +1328,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
-
+    },
+  
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1348,7 +1356,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1374,7 +1384,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1400,7 +1412,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
-
+    },
+  
+    {
       data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
@@ -1426,7 +1440,9 @@ export const dadosProgramacao = {
           temaApresentacao: "Em breve",
         },
       ],
+    },
 
+    {
       data: "20/07/2026",
       horarioDeInicio: "17:10",
       apresentador: "Mediador: a definir",
@@ -1448,6 +1464,6 @@ export const dadosProgramacao = {
           temaApresentacao: "Sessão de Encerramento e Premiação",
         },
       ],
-    },
+    }
   ],
 };
