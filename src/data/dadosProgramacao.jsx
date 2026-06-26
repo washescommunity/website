@@ -1234,7 +1234,44 @@ export const dadosProgramacao = {
   ],
   2026: [
     {
-      data: "Em breve",
+      data: "20/07/2026",
+      horarioDeInicio: "08:30",
+      apresentador: "Chairs: Luciana Zaina & Gláucia Braga e Silva",
+      sessao: "Abertura WASHES 2026",
+      programacao: [
+        {
+          horarioApresentacao: "08:30 - 08:50",
+          temaApresentacao: "Abertura WASHES 2026",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "08:50",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 1 - Pessoas, Formação e Competências",
+      programacao: [
+        {
+          horarioApresentacao: "08:50 - 09:05",
+          temaApresentacao: "Avaliação do Desenvolvimento de Competências em Engenharia de Software: Um Estudo de Caso em um Projeto Acadêmico de Desenvolvimento de Software (Deusiane Kaylane Moreira (UFC), Simires M. C. de Souza (UFC), Pedro Henrique Colares Gadêlha (UFC), Daniel Vítor Oliveira Nascimento (UFC), Maria Elanne Mendes Rodrigues (UFC), Anna Beatriz Marques (UFC), Valéria M. Pinheiro (UFC))",
+        },
+
+        {
+          horarioApresentacao: "09:05 - 09:20",
+          temaApresentacao: "What Does the Brazilian Industry Expect from Product Owners? An Analysis of Soft Skills in Job Postings (Israely Lima (UFC), Carla Bezerra (UFC))",
+        },
+
+        {
+          horarioApresentacao: "09:20 - 09:30",
+          temaApresentacao: "Uso de ChatGPT como Apoio à Aprendizagem de Gestão Ágil no Desenvolvimento de um Projeto Educacional (Ana Paula Costacurta (Instituto Federal do Paraná), Adolfo Gustavo Serra Seca Neto (UTFPR), Maria Claudia Figueiredo Pereira Emer (UTFPR), Laudelino Bastos (UTFPR))"	,
+        },
+
+        {
+          horarioApresentacao: "09:30 - 09:40",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
+        },
+      ],
+
+      data: "20/07/2026",
       horarioDeInicio: "",
       apresentador: "Em breve",
       sessao: "",
@@ -1242,6 +1279,173 @@ export const dadosProgramacao = {
         {
           horarioApresentacao: "Em breve",
           temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "",
+      apresentador: "Em breve",
+      sessao: "",
+      programacao: [
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "",
+      apresentador: "Em breve",
+      sessao: "",
+      programacao: [
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "",
+      apresentador: "Em breve",
+      sessao: "",
+      programacao: [
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "",
+      apresentador: "Em breve",
+      sessao: "",
+      programacao: [
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "",
+      apresentador: "Em breve",
+      sessao: "",
+      programacao: [
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+
+        {
+          horarioApresentacao: "Em breve",
+          temaApresentacao: "Em breve",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "17:10",
+      apresentador: "Mediador: a definir",
+      sessao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos (Painelistas: Flávia Santoro (SBC) e Gessé Pereira Evangelista (Neogrid))",
+      programacao: [
+        {
+          horarioApresentacao: "17:10 - 18:10",
+          temaApresentacao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos",
+        },
+      ],
+
+      data: "20/07/2026",
+      horarioDeInicio: "18:10",
+      apresentador: "Chairs: Luciana Zaina & Gláucia Braga e Silva",
+      sessao: "Sessão de Encerramento e Premiação",
+      programacao: [
+        {
+          horarioApresentacao: "18:10 - 18:30",
+          temaApresentacao: "Sessão de Encerramento e Premiação",
         },
       ],
     },
