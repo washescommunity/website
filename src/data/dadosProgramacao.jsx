@@ -1304,34 +1304,6 @@ export const dadosProgramacao = {
 
     {
       data: "20/07/2026",
-      horarioDeInicio: "09:40",
-      apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança (Sala: Auxiliar Plus 2)",
-      programacao: [
-        {
-          horarioApresentacao: "09:40 - 09:55",
-          temaApresentacao: "Investigando o impacto do fake agile na perspectiva das equipes de desenvolvimento de software (Luis Siqueira (UFC), Francisco Jerferson Martins da Silva (UFC), Gabriel Al-Samir Guimarães Sales (UFC), Carla Bezerra (UFC))"	,
-        },
-
-        {
-          horarioApresentacao: "09:55 - 10:10",
-          temaApresentacao: "Diagnóstico da Maturidade em Gestão do Conhecimento: Um Estudo em uma Empresa Desenvolvedora de Software de Pequeno Porte (Vanessa Lima (UFC), Jeferson Vieira (UFC), Marcelo Martins da Silva (UFC))"	,
-        },
-
-        {
-          horarioApresentacao: "10:10 - 10:20",
-          temaApresentacao: "Modelo de análise de efetividade de ações de conscientização cibernética com base em inteligência de ameaças (Júlio Valente da Costa Júnior (Universidade de Brasília, UnB), Augusto Damião Oliveira da Silva, Luiz Gustavo Marques Florindo (UnB), Daniel Chaves Café (Universidade de Brasília, UnB))"	,
-        },
-
-        {
-          horarioApresentacao: "10:20 - 10:30",
-          temaApresentacao: "Rodada de Perguntas e Discussão	",
-        },
-      ],
-    },
-
-    {
-      data: "20/07/2026",
       horarioDeInicio: "09:45",
       apresentador: "Chair: A definir",
       sessao: "Sessão Técnica 3 - Inclusão e Relações Profissionais (Sala: Hortênsia Esquerda)",
@@ -1360,27 +1332,27 @@ export const dadosProgramacao = {
 
     {
       data: "20/07/2026",
-      horarioDeInicio: "10:35",
+      horarioDeInicio: "09:40",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 6 - Requisitos e IA (Sala: Auxiliar Plus 2)",
+      sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança (Sala: Auxiliar Plus 2)",
       programacao: [
         {
-          horarioApresentacao: "10:35 - 10:50",
-          temaApresentacao: "The Use of Generative AI Tools by Requirements Engineers: An Interview with Industry Professionals (Josué Viana (UFPA), Carlos Portela (UFPA), Sandro Ronaldo Bezerra Oliveira (UFPA))"	,
+          horarioApresentacao: "09:40 - 09:55",
+          temaApresentacao: "Investigando o impacto do fake agile na perspectiva das equipes de desenvolvimento de software (Luis Siqueira (UFC), Francisco Jerferson Martins da Silva (UFC), Gabriel Al-Samir Guimarães Sales (UFC), Carla Bezerra (UFC))"	,
         },
 
         {
-          horarioApresentacao: "10:50 - 11:05",
-          temaApresentacao: "Aplicação da Engenharia de Requisitos à Modernização de Sistemas Legados no Setor Público: Um Relatório de Experiência (Thomas Lopes (UFLA), Thaís Giovanna Lopes (UFLA), Vanessa Souza (UFLA), Leonardo Filipe Silva (UFLA), Paulo Afonso Parreira Júnior (UFLA))"	,
+          horarioApresentacao: "09:55 - 10:10",
+          temaApresentacao: "Diagnóstico da Maturidade em Gestão do Conhecimento: Um Estudo em uma Empresa Desenvolvedora de Software de Pequeno Porte (Vanessa Lima (UFC), Jeferson Vieira (UFC), Marcelo Martins da Silva (UFC))"	,
         },
 
         {
-          horarioApresentacao: "11:05 - 11:20",
-          temaApresentacao: "From Awareness to Action: How Developers Engage with Accessibility Innovation in LLM-Assisted Development (Thayssa Rocha (UFPA), Luciane Silva (UFU), Ana Duarte, Marcelle Pereira Mota (UFPA), Gustavo Pinto (UFPA))"	,
+          horarioApresentacao: "10:10 - 10:20",
+          temaApresentacao: "Modelo de análise de efetividade de ações de conscientização cibernética com base em inteligência de ameaças (Júlio Valente da Costa Júnior (Universidade de Brasília, UnB), Augusto Damião Oliveira da Silva, Luiz Gustavo Marques Florindo (UnB), Daniel Chaves Café (Universidade de Brasília, UnB))"	,
         },
 
         {
-          horarioApresentacao: "11:20 - 11:30",
+          horarioApresentacao: "10:20 - 10:30",
           temaApresentacao: "Rodada de Perguntas e Discussão	",
         },
       ],
@@ -1405,6 +1377,34 @@ export const dadosProgramacao = {
         {
           horarioApresentacao: "11:10 - 11:20",
           temaApresentacao: "Adoption of Blockchain for Decentralized Execution Agreements: Empirical Evidence of Usability and Acceptance (Iago Fernandes, Pamella Soares (UECE), Raphael Lima Saraiva (UECE), Ana Klyssia Martins Vasconcelos (UECE Universidade Estadual do Ceará), Matheus Paixão (UECE), Allysson Allex Araújo (Universidade Federal do Cariri), Jerffeson Souza (UECE))"	,
+        },
+
+        {
+          horarioApresentacao: "11:20 - 11:30",
+          temaApresentacao: "Rodada de Perguntas e Discussão	",
+        },
+      ],
+    },
+
+    {
+      data: "20/07/2026",
+      horarioDeInicio: "10:35",
+      apresentador: "Chair: A definir",
+      sessao: "Sessão Técnica 6 - Requisitos e IA (Sala: Auxiliar Plus 2)",
+      programacao: [
+        {
+          horarioApresentacao: "10:35 - 10:50",
+          temaApresentacao: "The Use of Generative AI Tools by Requirements Engineers: An Interview with Industry Professionals (Josué Viana (UFPA), Carlos Portela (UFPA), Sandro Ronaldo Bezerra Oliveira (UFPA))"	,
+        },
+
+        {
+          horarioApresentacao: "10:50 - 11:05",
+          temaApresentacao: "Aplicação da Engenharia de Requisitos à Modernização de Sistemas Legados no Setor Público: Um Relatório de Experiência (Thomas Lopes (UFLA), Thaís Giovanna Lopes (UFLA), Vanessa Souza (UFLA), Leonardo Filipe Silva (UFLA), Paulo Afonso Parreira Júnior (UFLA))"	,
+        },
+
+        {
+          horarioApresentacao: "11:05 - 11:20",
+          temaApresentacao: "From Awareness to Action: How Developers Engage with Accessibility Innovation in LLM-Assisted Development (Thayssa Rocha (UFPA), Luciane Silva (UFU), Ana Duarte, Marcelle Pereira Mota (UFPA), Gustavo Pinto (UFPA))"	,
         },
 
         {
