@@ -1237,7 +1237,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "08:30",
       apresentador: "Chairs: Luciana Zaina & Gláucia Braga e Silva",
-      sessao: "Abertura WASHES 2026",
+      sessao: "Abertura WASHES 2026 (Sala: Hortênsia Esquerda)",
       programacao: [
         {
           horarioApresentacao: "08:30 - 08:50",
@@ -1250,7 +1250,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "08:50",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 1 - Pessoas, Formação e Competências",
+      sessao: "Sessão Técnica 1 - Pessoas, Formação e Competências (Sala: Hortênsia Esquerda)",
       programacao: [
         {
           horarioApresentacao: "08:50 - 09:05",
@@ -1278,7 +1278,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "08:50",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 2 - Comunicação, Colaboração e Requisitos",
+      sessao: "Sessão Técnica 2 - Comunicação, Colaboração e Requisitos (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "08:50 - 09:05",
@@ -1306,7 +1306,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "09:40",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança",
+      sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "09:40 - 09:55",
@@ -1334,7 +1334,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "09:45",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 3 - Inclusão e Relações Profissionais",
+      sessao: "Sessão Técnica 3 - Inclusão e Relações Profissionais (Sala: Hortênsia Esquerda)",
       programacao: [
         {
           horarioApresentacao: "09:45 - 10:00",
@@ -1362,7 +1362,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "10:35",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 6 - Requisitos e IA ",
+      sessao: "Sessão Técnica 6 - Requisitos e IA (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "10:35 - 10:50",
@@ -1390,7 +1390,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "10:40",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 5 - Experiência de Uso e Tecnologias Interativas",
+      sessao: "Sessão Técnica 5 - Experiência de Uso e Tecnologias Interativas (Sala: Hortênsia Esquerda)",
       programacao: [
         {
           horarioApresentacao: "10:40 - 10:55",
@@ -1418,7 +1418,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "16:00",
       apresentador: "Chair: A definir",
-      sessao: "Sessão Técnica 7 - Experiência, Práticas e Conformidade",
+      sessao: "Sessão Técnica 7 - Experiência, Práticas e Conformidade (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "16:00 - 16:15",
@@ -1451,7 +1451,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "17:10",
       apresentador: "Mediador: a definir",
-      sessao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos (Painelistas: Flávia Santoro (SBC) e Gessé Pereira Evangelista (Neogrid))",
+      sessao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos (Painelistas: Flávia Santoro (SBC) e Gessé Pereira Evangelista (Neogrid)) (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "17:10 - 18:10",
@@ -1464,7 +1464,7 @@ export const dadosProgramacao = {
       data: "20/07/2026",
       horarioDeInicio: "18:10",
       apresentador: "Chairs: Luciana Zaina & Gláucia Braga e Silva",
-      sessao: "Sessão de Encerramento e Premiação",
+      sessao: "Sessão de Encerramento e Premiação (Sala: Auxiliar Plus 2)",
       programacao: [
         {
           horarioApresentacao: "18:10 - 18:30",
