@@ -1249,7 +1249,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "08:50",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Sofia Costa Paiva",
       sessao: "Sessão Técnica 1 - Pessoas, Formação e Competências (Sala: Hortênsia Esquerda)",
       programacao: [
         {
@@ -1277,7 +1277,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "08:50",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Wellynton Diniz",
       sessao: "Sessão Técnica 2 - Comunicação, Colaboração e Requisitos (Sala: Auxiliar Plus 2)",
       programacao: [
         {
@@ -1305,7 +1305,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "09:45",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Marília Mendes",
       sessao: "Sessão Técnica 3 - Inclusão e Relações Profissionais (Sala: Hortênsia Esquerda)",
       programacao: [
         {
@@ -1333,7 +1333,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "09:40",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Luciana Zaina",
       sessao: "Sessão Técnica 4 - Processos, Gestão e Segurança (Sala: Auxiliar Plus 2)",
       programacao: [
         {
@@ -1361,7 +1361,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "10:40",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Kamila Rios",
       sessao: "Sessão Técnica 5 - Experiência de Uso e Tecnologias Interativas (Sala: Hortênsia Esquerda)",
       programacao: [
         {
@@ -1389,7 +1389,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "10:35",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Thiago Coleti",
       sessao: "Sessão Técnica 6 - Requisitos e IA (Sala: Auxiliar Plus 2)",
       programacao: [
         {
@@ -1417,7 +1417,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "16:00",
-      apresentador: "Chair: A definir",
+      apresentador: "Chair: Carla Bezerra",
       sessao: "Sessão Técnica 7 - Experiência, Práticas e Conformidade (Sala: Auxiliar Plus 2)",
       programacao: [
         {
@@ -1450,7 +1450,7 @@ export const dadosProgramacao = {
     {
       data: "20/07/2026",
       horarioDeInicio: "17:10",
-      apresentador: "Mediador: a definir",
+      apresentador: "Mediadoras: Luciana Zaina & Gláucia Braga e Silva",
       sessao: "Painel: Engenharia de Software, IA e Emergência Climática: aspectos sociais, humanos e econômicos envolvidos (Painelistas: Flávia Santoro (SBC) e Gessé Pereira Evangelista (Neogrid)) (Sala: Auxiliar Plus 2)",
       programacao: [
         {
