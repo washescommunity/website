@@ -1473,4 +1473,34 @@ export const dadosProgramacao = {
       ],
     }
   ],
+
+  2027: [
+    {
+      data: "A Definir",
+      horarioDeInicio: "A Definir",
+      apresentador: "A Definir",
+      sessao: "A Definir",
+      programacao: [
+        {
+          horarioApresentacao: "A Definir",
+          temaApresentacao: "A Definir",
+        },
+      ],
+    },
+  ],
+
+  2028: [
+    {
+      data: "A Definir",
+      horarioDeInicio: "A Definir",
+      apresentador: "A Definir",
+      sessao: "A Definir",
+      programacao: [
+        {
+          horarioApresentacao: "A Definir",
+          temaApresentacao: "A Definir",
+        },
+      ],
+    },
+  ],
 };
