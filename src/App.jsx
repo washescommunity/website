@@ -18,7 +18,7 @@ import {
   Washes2024,
   Washes2025,
   Washes2026,
-  Washes2027,
+  Washes2027
 } from "../src/pages/WASHES/index";
 
 function App() {
