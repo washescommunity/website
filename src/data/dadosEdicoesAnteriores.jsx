@@ -100,7 +100,7 @@ export const dadosEdicoesAnteriores = [
     linkAnalEvento: "https://sol.sbc.org.br/index.php/washes/issue/view/1696"
   },
   { // Decima Primeira Edição WASHES
-    imagem: "./assets/edicoesAnterioresImages/washes-xi-gramado.jpg",
+    imagem: "./assets/edicoesAnterioresImages/washes-xii-manaus.jpg",
     creditosDaImagem:"Foto de Mini Mundo",
     edicao: "XII WASHES",
     local : "Manaus - AM",

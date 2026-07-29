@@ -328,4 +328,18 @@ export const dadosChamadaDeTrabalho = {
     `
   }
 ],
+2027: [
+  {
+    titulo: "Instrução para Submissão",
+    conteudo: `Em Breve`,
+  },
+  {
+    titulo: "Datas Importantes",
+    conteudo: `Em Breve`,
+  },
+  {
+    titulo: "Publicação dos Trabalhos",
+    conteudo: `Em Breve`
+  }
+],
 };
