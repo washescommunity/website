@@ -36,7 +36,7 @@ const Washes2026 = () => {
 
   return (
     <section>
-      <BannerWASHES anoAtual={anoAtual} creditosDaImagem="Foto de Mini Mundo" />
+      <BannerWASHES anoAtual={anoAtual} creditosDaImagem="Foto do Teatro de Manaus" />
 
       <div className="container px-5 mx-auto text-[#2f2f2f] flex flex-col lg:gap-5 gap-2 my-20">
         <h1 className="font-bold text-[28px] lg:text-[32px]">Programação</h1>
