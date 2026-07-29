@@ -11,7 +11,7 @@ import { dadosComiteDiretivo } from "../../data/dadosComiteDiretivo";
 import { dadosCoordenadores } from "../../data/dadosCoordenadores";
 import { dadosComitePrograma } from "../../data/dadosComitePrograma";
 
-const Washes2026 = () => {
+const Washes2027 = () => {
   const [isDropdownOpen, setDropdownOpen] = useState(false); // Controle do dropdown
   const [anoAtual] = useState(2027); // Controle do ano atual
   const contentRef = useRef(null);
@@ -158,4 +158,4 @@ const Washes2026 = () => {
   );
 };
 
-export default Washes2026;
+export default Washes2027;
