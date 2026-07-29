@@ -17,7 +17,7 @@ function HeroWashesAnoAtual() {
                     <h1 className="text-[28px] lg:text-[32px] font-semibold text-[#0D6080]">WASHES {dadosEdicaoAtual.anoAtualDoEvento} </h1>
                     <p className="text-lg font-light text-[#2F2F2F] lg:text-[26px] leading-9 lg:text-justify">
                         {/* O WASHES {dadosEdicaoAtual.anoAtualDoEvento}  será realizado no formato presencial nos dias {dadosEdicaoAtual.dataDaRealizacaoDoWASHES}  (datas sujeitas à mudanças). {dadosEdicaoAtual.edicaoDoCongresso} */}
-                        Em breve, traremos mais informações sobre o WASHES 2026!
+                        Em breve, traremos mais informações sobre o WASHES 2027!
                         </p>
                         <Link
                             to={`/washes-${dadosEdicaoAtual.anoAtualDoEvento}`}

@@ -97,6 +97,15 @@ export const dadosEdicoesAnteriores = [
     local : "Gramado - RS",
     anoDaEdicao: "(2026)",
     linkWebsite: "#/washes-2026",
+    linkAnalEvento: "https://sol.sbc.org.br/index.php/washes/issue/view/1696"
+  },
+  { // Decima Primeira Edição WASHES
+    imagem: "./assets/edicoesAnterioresImages/washes-xi-gramado.jpg",
+    creditosDaImagem:"Foto de Mini Mundo",
+    edicao: "XII WASHES",
+    local : "Manaus - AM",
+    anoDaEdicao: "(2027)",
+    linkWebsite: "#/washes-2027",
     linkAnalEvento: ""
   },
   // Adicione edições futuras abaixo
