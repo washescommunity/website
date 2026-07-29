@@ -43,7 +43,7 @@ function App() {
           <Route path="/washes-2024" element={<Washes2024/>} />
           <Route path="/washes-2025" element={<Washes2025/>} />
           <Route path="/washes-2026" element={<Washes2026/>} />
-          <Route path="/washes-2027" element={<Washes2026/>} />
+          <Route path="/washes-2027" element={<Washes2027/>} />
           <Route path="/edicoes-anteriores" element={<EdicoesAnteriores />} />
           <Route path="/datawashes" element={<DataWashes />} />
           {/* <Route path="*" element={<NoMatch />} /> */}
