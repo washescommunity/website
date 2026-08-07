@@ -10,7 +10,7 @@ export default {
         "banner-hero": "url(/assets/banners/banner-hero-home.svg)",
         "teste-foto" : "url(/assets/imgs/logo_washes.svg)",
         // Altere o caminho da nova foto do local do próximo evento abaixo
-        "banner-hero-WASHES2026":"url(/assets/banners/banner-hero-WASHES2027.jpg)",
+        "banner-hero-WASHES2027":"url(/assets/banners/banner-hero-WASHES2027.jpg)",
         "banner-hero-WASHES2026":"url(/assets/banners/banner-hero-WASHES2026.jpg)",
         "banner-hero-WASHES2025":"url(/assets/banners/banner-hero-WASHES2025.jpg)",
         "banner-hero-WASHES2024":"url(/assets/banners/banner-hero-WASHES2024.jpg)",
