@@ -384,7 +384,7 @@ export const dadosComiteDiretivo = {
       lattesUrl: "http://lattes.cnpq.br/5529725593221391",
     },
     {
-      imgSrc: "./assets/imgs/rodrigo_santos.jpg",
+      imgSrc: "./assets/imgs/Rodrigo Santos.png",
       name: "Rodrigo Santos",
       university: "Universidade Federal do Estado do Rio de Janeiro",
       memberType: "Membro Permanente",

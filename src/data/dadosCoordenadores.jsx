@@ -273,12 +273,12 @@ export const dadosCoordenadores = {
       lattesUrl: "http://lattes.cnpq.br/2427091227765800"
     },
     {
-      imgSrc: "",
+      imgSrc: "./assets/imgs/Carla Bezerra.jpeg",
       name: "Carla Bezerra",
       university: "Universidade Federal do Ceará",
       memberType: "Coordenadora",
-      linkedinUrl: "",
-      lattesUrl: ""
+      linkedinUrl: "https://www.linkedin.com/in/carla-bezerra-85916b294/",
+      lattesUrl: "http://lattes.cnpq.br/4277471687235814"
     },
     {
       imgSrc: "./assets/imgs/Luciana Zaina.jpg",
